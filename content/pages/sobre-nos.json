@@ -2,5 +2,19 @@
   "title": "Sobre nós",
   "meta_title": "Sobre nós",
   "meta_description": "Sobre nós",
-  "body": "### Lorem ipsum dolor sit amet"
+  "body": "Seja bem vindo em nossa Loja virtual Fran Torres. Aqui o nosso propósito é oferecer roupas e acessórios femininos, para deixar você ainda mais linda e elegante. Oferecemos ainda, qualidade, preço acessível e um ótimo atendimento.",
+  "sections": [
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
+    }
+  ]
 }
