@@ -2,5 +2,19 @@
   "title": "Condições de entrega",
   "meta_title": "Condições de entrega",
   "meta_description": "Condições de entrega",
-  "body": "### Lorem ipsum dolor sit amet"
+  "body": "<!--StartFragment-->\n\nPromoção Ativa Frete Grátis para estado de SP nas compras a partir de R$399 , envio PAC.\n\nTodos os produtos serão enviados de acordo com a forma escolhida pelo cliente na finalização de sua compra.\n\nNossos produtos são a pronta entrega, envio imediato após aprovação de pagamento.\n\nO prazo para a entrega varia de acordo com a forma de envio escolhida e não é de nossa responsabilidade, já que a entrega fica a cargo dos Correios / Transportadora, enviamos para Todo Brasil .\n\nEntrega Rápida para cidade de Piracicaba, com taxa fixa consulte seu cep.\n\nVocê será informado do código para rastrear sua encomenda por e-mail quando seu pedido for postado.\n\nEstamos tomando todos os cuidados para que o envio de seus produtos sejam enviados seguindo as normas de cuidados e segurança indicados pela OMS para nossos colaboradores e clientes.\n\n\n\n<!--EndFragment-->",
+  "sections": [
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
+    }
+  ]
 }
