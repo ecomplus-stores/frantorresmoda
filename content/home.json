@@ -3,6 +3,47 @@
   "meta_description": "",
   "sections": [
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/2c71aad3-daf0-42cf-a81e-69fa9a0b6bea.jpg",
+          "link": "https://frantorresmoda.com.br/conjuntos"
+        },
+        {
+          "img": "/img/uploads/119ac4af-648b-438e-886f-e94e29435a6a.jpg",
+          "link": "https://frantorresmoda.com.br/blusas"
+        },
+        {
+          "img": "/img/uploads/333f9d8b-45b9-46e0-9a1b-04051db6d38d.jpg",
+          "link": "https://frantorresmoda.com.br/conjuntos"
+        },
+        {
+          "img": "/img/uploads/ad73c694-8df4-4447-8f1e-3b1c6e469d9d.jpg",
+          "link": "https://frantorresmoda.com.br/saias"
+        }
+      ]
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": false,
+      "sort": "news"
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/bannerefrete.jpg",
+      "mobile_img": "/img/uploads/bannerefretem.jpg"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "6202b9fb7963422eeef37450:categories:Plus Size:/plus-size",
+      "sort": "news",
+      "link": "https://frantorresmoda.com.br/plus-size",
+      "title": "Plus Size veja aqui"
+    },
+    {
       "type": "collection-shelf",
       "shuffle": true,
       "collection_id": null,
@@ -11,6 +52,20 @@
       "headless": false,
       "limit": 12,
       "page": 1
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "61e942150c7c727225183e38:categories:Vestidos:/vestidos",
+      "sort": "news",
+      "link": "https://frantorresmoda.com.br/vestidos",
+      "title": "Vestidos veja todos"
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
     }
   ]
 }
