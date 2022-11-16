@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.ebd47f9d6ffff97fe07a94423c39b546.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_384x384.de7cf37dc9c0559d9b3c290cc52c714d.jpeg",
+      "sizes": "384x384",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_192x192.44300f0c3d8815d8901efc50cd73df4b.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_128x128.8ec1c924fa1cec584522da17d605960a.jpeg",
+      "sizes": "128x128",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_96x96.34770afc0c096d04ec395ca6e9eb1d37.jpeg",
+      "sizes": "96x96",
+      "type": "image/jpeg"
+    }
+  ],
+  "name": "frantorresmoda",
+  "short_name": "Fran Torres Moda",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Seja bem vindo em nossa Loja virtual Fran Torres. Aqui o nosso propósito é oferecer roupas e acessórios femininos, para deixar você ainda mais linda e elegante. Oferecemos ainda, qualidade, preço acessível e um ótimo atendimento.\n",
+  "background_color": "#ffffff",
+  "theme_color": "#484747"
+}
